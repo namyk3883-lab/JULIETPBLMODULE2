@@ -50,9 +50,9 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 ### 🧑‍💻 김민주
 
 #### 1. Hamlet
-![Hamlet Image 1](data/image1.png)
-![Hamlet Image 2](data/image2.png)
-![Hamlet Image 3](data/image3.png)
+![Hamlet Image 1](image1.png)
+![Hamlet Image 2](image2.png)
+![Hamlet Image 3](image3.png)
 - #Character-Driven Lead Stories
 - #Romance-Light Stories
 - #Epic Ensemble Sagas
@@ -61,9 +61,9 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 - #Emotionally Explosive Stories
 
 #### 2. All’s Well That Ends Well
-![All's Well That Ends Well Image 1](data/image4.png)
-![All's Well That Ends Well Image 2](data/image5.png)
-![All's Well That Ends Well Image 3](data/image6.png)
+![All's Well That Ends Well Image 1](image4.png)
+![All's Well That Ends Well Image 2](image5.png)
+![All's Well That Ends Well Image 3](image6.png)
 - #Ensemble Character Stories
 - #Romance-Light Stories
 - #Intimate Cast Dramas
@@ -72,9 +72,9 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 - #Emotionally Explosive Stories
 
 #### 3. 베니스의 상인 (The Merchant of Venice)
-![The Merchant of Venice Image 1](data/image7.png)
-![The Merchant of Venice Image 2](data/image8.png)
-![The Merchant of Venice Image 3](data/image9.png)
+![The Merchant of Venice Image 1](image7.png)
+![The Merchant of Venice Image 2](image8.png)
+![The Merchant of Venice Image 3](image9.png)
 - #Ensemble Character Stories
 - #Romance-Light Stories
 - #Intimate Cast Dramas
@@ -83,9 +83,9 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 - #Calm Atmospheric Stories
 
 #### 4. Antony and Cleopatra
-![Antony and Cleopatra Image 1](data/image10.png)
-![Antony and Cleopatra Image 2](data/image11.png)
-![Antony and Cleopatra Image 3](data/image12.png)
+![Antony and Cleopatra Image 1](image10.png)
+![Antony and Cleopatra Image 2](image11.png)
+![Antony and Cleopatra Image 3](image12.png)
 - #Character-Driven Lead Stories
 - #Romance-Forward Series
 - #Epic Ensemble Sagas
@@ -94,9 +94,9 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 - #Emotionally Explosive Stories
 
 #### 5. Coriolanus
-![Coriolanus Image 1](data/image13.png)
-![Coriolanus Image 2](data/image14.png)
-![Coriolanus Image 3](data/image15.png)
+![Coriolanus Image 1](image13.png)
+![Coriolanus Image 2](image14.png)
+![Coriolanus Image 3](image15.png)
 - #Character-Driven Lead Stories
 - #Romance-Light Stories
 - #Intimate Cast Dramas
@@ -105,9 +105,9 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 - #Emotionally Explosive Stories
 
 #### 6. Henry IV part 1
-![Henry IV part 1 Image 1](data/image16.png)
-![Henry IV part 1 Image 2](data/image17.png)
-![Henry IV part 1 Image 3](data/image18.png)
+![Henry IV part 1 Image 1](image16.png)
+![Henry IV part 1 Image 2](image17.png)
+![Henry IV part 1 Image 3](image18.png)
 - #Ensemble Character Stories
 - #Romance-Light Stories
 - #Epic Ensemble Sagas
@@ -116,9 +116,9 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 - #Calm Atmospheric Stories
 
 #### 7. Henry IV part 2
-![Henry IV part 2 Image 1](data/image19.png)
-![Henry IV part 2 Image 2](data/image20.png)
-![Henry IV part 2 Image 3](data/image21.png)
+![Henry IV part 2 Image 1](image19.png)
+![Henry IV part 2 Image 2](image20.png)
+![Henry IV part 2 Image 3](image21.png)
 - #Ensemble Character Stories
 - #Romance-Light Stories
 - #Epic Ensemble Sagas
@@ -127,9 +127,9 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 - #Calm Atmospheric Stories
 
 #### 8. Henry V
-![Henry V Image 1](data/image22.png)
-![Henry V Image 2](data/image23.png)
-![Henry V Image 3](data/image24.png)
+![Henry V Image 1](image22.png)
+![Henry V Image 2](image23.png)
+![Henry V Image 3](image24.png)
 - #Ensemble Character Stories
 - #Romance-Light Stories
 - #Epic Ensemble Sagas
@@ -142,9 +142,9 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 ### 🧑‍💻 Zaya
 
 #### Othello
-![Othello Image 1](data/image25.png)
-![Othello Image 2](data/image26.png)
-![Othello Image 3](data/image27.png)
+![Othello Image 1](image25.png)
+![Othello Image 2](image26.png)
+![Othello Image 3](image27.png)
 1. Character-Driven Lead Stories
 2. Romance-Forward Series
 3. Intimate Cast Dramas
@@ -153,9 +153,9 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 6. Emotionally Explosive Stories
 
 #### As You Like It
-![As You Like It Image 1](data/image28.png)
-![As You Like It Image 2](data/image29.png)
-![As You Like It Image 3](data/image30.png)
+![As You Like It Image 1](image28.png)
+![As You Like It Image 2](image29.png)
+![As You Like It Image 3](image30.png)
 1. Character-Ensemble Character Stories
 2. Romance-Forward Series
 3. Intimate Cast Dramas
@@ -164,9 +164,9 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 6. Calm Atmospheric Stories
 
 #### Henry VI part 1
-![Henry VI part 1 Image 1](data/image31.png)
-![Henry VI part 1 Image 2](data/image32.png)
-![Henry VI part 1 Image 3](data/image33.png)
+![Henry VI part 1 Image 1](image31.png)
+![Henry VI part 1 Image 2](image32.png)
+![Henry VI part 1 Image 3](image33.png)
 1. Character-Ensemble Character Stories
 2. Romance-Light Stories
 3. Epic Ensemble Sagas
@@ -175,9 +175,9 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 6. Emotionally Explosive Stories
 
 #### Henry VI part 2
-![Henry VI part 2 Image 1](data/image34.png)
-![Henry VI part 2 Image 2](data/image35.png)
-![Henry VI part 2 Image 3](data/image36.png)
+![Henry VI part 2 Image 1](image34.png)
+![Henry VI part 2 Image 2](image35.png)
+![Henry VI part 2 Image 3](image36.png)
 1. Character-Ensemble Character Stories
 2. Romance-Light Stories
 3. Epic Ensemble Sagas
@@ -186,9 +186,9 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 6. Emotionally Explosive Stories
 
 #### Henry VI part 3
-![Henry VI part 3 Image 1](data/image37.png)
-![Henry VI part 3 Image 2](data/image38.png)
-![Henry VI part 3 Image 3](data/image39.png)
+![Henry VI part 3 Image 1](image37.png)
+![Henry VI part 3 Image 2](image38.png)
+![Henry VI part 3 Image 3](image39.png)
 1. Character-Ensemble Character Stories
 2. Romance-Light Stories
 3. Epic Ensemble Sagas
@@ -197,9 +197,9 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 6. Emotionally Explosive Stories
 
 #### Henry VIII
-![Henry VIII Image 1](data/image40.png)
-![Henry VIII Image 2](data/image41.png)
-![Henry VIII Image 3](data/image42.png)
+![Henry VIII Image 1](image40.png)
+![Henry VIII Image 2](image41.png)
+![Henry VIII Image 3](image42.png)
 1. Character-Ensemble Character Stories
 2. Romance-Light Stories
 3. Epic Ensemble Sagas
@@ -208,9 +208,9 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 6. Calm Atmospheric Stories
 
 #### Julius Caesar
-![Julius Caesar Image 1](data/image43.png)
-![Julius Caesar Image 2](data/image44.png)
-![Julius Caesar Image 3](data/image45.png)
+![Julius Caesar Image 1](image43.png)
+![Julius Caesar Image 2](image44.png)
+![Julius Caesar Image 3](image45.png)
 1. Character-Ensemble Character Stories
 2. Romance-Light Stories
 3. Epic Ensemble Sagas
@@ -219,9 +219,9 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 6. Emotionally Explosive Stories
 
 #### King John
-![King John Image 1](data/image46.png)
-![King John Image 2](data/image47.png)
-![King John Image 3](data/image48.png)
+![King John Image 1](image46.png)
+![King John Image 2](image47.png)
+![King John Image 3](image48.png)
 1. Character-Ensemble Character Stories
 2. Romance-Light Stories
 3. Epic Ensemble Sagas
@@ -230,9 +230,9 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 6. Calm Atmospheric Stories
 
 #### Love’s Labor’s Lost
-![Love's Labor's Lost Image 1](data/image49.png)
-![Love's Labor's Lost Image 2](data/image50.png)
-![Love's Labor's Lost Image 3](data/image51.png)
+![Love's Labor's Lost Image 1](image49.png)
+![Love's Labor's Lost Image 2](image50.png)
+![Love's Labor's Lost Image 3](image51.png)
 1. Character-Ensemble Character Stories
 2. Romance-Forward Series
 3. Intimate Cast Dramas
@@ -245,16 +245,16 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 ### 🧑‍💻 남유건
 
 #### 1. Macbeth
-![Macbeth Image 1](data/image52.png)
-![Macbeth Image 2](data/image53.png)
-![Macbeth Image 3](data/image54.png)
+![Macbeth Image 1](image52.png)
+![Macbeth Image 2](image53.png)
+![Macbeth Image 3](image54.png)
 - Main character centric / Not romantic-centric / 다수극 / Sad ending / Dramatic / Big feelings
 - #Character-Driven Lead Stories #Romance-Light Stories #Epic Ensemble Sagas #Tragic Descents #High-Intensity Dramas #Emotionally Explosive Stories 
 
 #### 2. A Midsummer Night’s Dream
-![A Midsummer Night's Dream Image 1](data/image55.png)
-![A Midsummer Night's Dream Image 2](data/image56.png)
-![A Midsummer Night's Dream Image 3](data/image57.png)
+![A Midsummer Night's Dream Image 1](image55.png)
+![A Midsummer Night's Dream Image 2](image56.png)
+![A Midsummer Night's Dream Image 3](image57.png)
 1. Ensemble Character Stories 
 2. Romance-Forward Series 
 3. Intimate Cast Dramas 
@@ -263,9 +263,9 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 6. Calm Atmospheric Stories 
 
 #### 3. Measure for Measure
-![Measure for Measure Image 1](data/image58.png)
-![Measure for Measure Image 2](data/image59.png)
-![Measure for Measure Image 3](data/image60.png)
+![Measure for Measure Image 1](image58.png)
+![Measure for Measure Image 2](image59.png)
+![Measure for Measure Image 3](image60.png)
 1. Character-Driven Lead Stories 
 2. Romance-Forward Series 
 3. Intimate Cast Dramas 
@@ -274,9 +274,9 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 6. Emotionally Explosive Stories 
 
 #### 4. Much Ado About Nothing
-![Much Ado About Nothing Image 1](data/image61.png)
-![Much Ado About Nothing Image 2](data/image62.png)
-![Much Ado About Nothing Image 3](data/image63.png)
+![Much Ado About Nothing Image 1](image61.png)
+![Much Ado About Nothing Image 2](image62.png)
+![Much Ado About Nothing Image 3](image63.png)
 1. Character-Driven Lead Stories 
 2. Romance-Forward Series 
 3. Intimate Cast Dramas 
@@ -285,9 +285,9 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 6. Emotionally Explosive Stories 
 
 #### Pericles
-![Pericles Image 1](data/image64.png)
-![Pericles Image 2](data/image65.png)
-![Pericles Image 3](data/image66.png)
+![Pericles Image 1](image64.png)
+![Pericles Image 2](image65.png)
+![Pericles Image 3](image66.png)
 1. Character-Driven Lead Stories 
 2. Romance-Light Stories
 3. Intimate Cast Dramas 
@@ -296,9 +296,9 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 6. Emotionally Explosive Stories 
 
 #### 5. Richard II
-![Richard II Image 1](data/image67.png)
-![Richard II Image 2](data/image68.png)
-![Richard II Image 3](data/image69.png)
+![Richard II Image 1](image67.png)
+![Richard II Image 2](image68.png)
+![Richard II Image 3](image69.png)
 1. Ensemble Character Stories
 2. Romance-Light Stories
 3. Epic Ensemble Sagas
@@ -307,9 +307,9 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 6. Emotionally Explosive Stories 
 
 #### 6. Richard III
-![Richard III Image 1](data/image70.png)
-![Richard III Image 2](data/image71.png)
-![Richard III Image 3](data/image72.png)
+![Richard III Image 1](image70.png)
+![Richard III Image 2](image71.png)
+![Richard III Image 3](image72.png)
 1. Ensemble Character Stories
 2. Romance-Light Stories
 3. Epic Ensemble Sagas
@@ -318,9 +318,9 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 6. Emotionally Explosive Stories 
 
 #### 7. Romeo and Juliet
-![Romeo and Juliet Image 1](data/image73.png)
-![Romeo and Juliet Image 2](data/image74.png)
-![Romeo and Juliet Image 3](data/image75.png)
+![Romeo and Juliet Image 1](image73.png)
+![Romeo and Juliet Image 2](image74.png)
+![Romeo and Juliet Image 3](image75.png)
 1. Ensemble Character Stories
 2. Romance-Forward Series 
 3. Epic Ensemble Sagas
@@ -329,9 +329,9 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 6. Emotionally Explosive Stories 
 
 #### 8. The Comedy of Errors
-![The Comedy of Errors Image 1](data/image76.png)
-![The Comedy of Errors Image 2](data/image77.png)
-![The Comedy of Errors Image 3](data/image78.png)
+![The Comedy of Errors Image 1](image76.png)
+![The Comedy of Errors Image 2](image77.png)
+![The Comedy of Errors Image 3](image78.png)
 1. Ensemble Character Stories
 2. Romance-Light Stories
 3. Intimate Cast Dramas 
@@ -344,9 +344,9 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 ### 🧑‍💻 임형건
 
 #### The Winter’s Tale
-![The Winter's Tale Image 1](data/image79.png)
-![The Winter's Tale Image 2](data/image80.png)
-![The Winter's Tale Image 3](data/image81.png)
+![The Winter's Tale Image 1](image79.png)
+![The Winter's Tale Image 2](image80.png)
+![The Winter's Tale Image 3](image81.png)
 - Bittersweet Recoveries
 - Romance-Forward Series
 - High-Intensity Dramas
@@ -355,9 +355,9 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 - Intimate Cast Dramas
 
 #### Timon of Athens
-![Timon of Athens Image 1](data/image82.png)
-![Timon of Athens Image 2](data/image83.png)
-![Timon of Athens Image 3](data/image84.png)
+![Timon of Athens Image 1](image82.png)
+![Timon of Athens Image 2](image83.png)
+![Timon of Athens Image 3](image84.png)
 - Tragic Descents
 - Character-Driven Lead Stories
 - Emotionally Explosive Stories
@@ -366,9 +366,9 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 - Intimate Cast Dramas
 
 #### The Tempest
-![The Tempest Image 1](data/image85.png)
-![The Tempest Image 2](data/image86.png)
-![The Tempest Image 3](data/image87.png)
+![The Tempest Image 1](image85.png)
+![The Tempest Image 2](image86.png)
+![The Tempest Image 3](image87.png)
 - Slow-Burn Journeys
 - Calm Atmospheric Stories
 - Character-Driven Lead Stories
@@ -377,9 +377,9 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 - Intimate Cast Dramas
 
 #### Titus Andronicus
-![Titus Andronicus Image 1](data/image88.png)
-![Titus Andronicus Image 2](data/image89.png)
-![Titus Andronicus Image 3](data/image90.png)
+![Titus Andronicus Image 1](image88.png)
+![Titus Andronicus Image 2](image89.png)
+![Titus Andronicus Image 3](image90.png)
 - Emotionally Explosive Stories
 - High-Intensity Dramas
 - Tragic Descents
@@ -388,9 +388,9 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 - Intimate Cast Dramas
 
 #### The Two Gentlemen of Verona
-![The Two Gentlemen of Verona Image 1](data/image91.png)
-![The Two Gentlemen of Verona Image 2](data/image92.png)
-![The Two Gentlemen of Verona Image 3](data/image93.png)
+![The Two Gentlemen of Verona Image 1](image91.png)
+![The Two Gentlemen of Verona Image 2](image92.png)
+![The Two Gentlemen of Verona Image 3](image93.png)
 - Romance-Forward Series
 - Ensemble Character Stories
 - Feel-Good Endings
@@ -398,7 +398,7 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 - Intimate Cast Dramas
 
 #### The Taming of the Shrew
-![The Taming of the Shrew Image 1](data/image94.png)
+![The Taming of the Shrew Image 1](image94.png)
 - Romance-Forward Series
 - Character-Driven Lead Stories
 - High-Intensity Dramas
