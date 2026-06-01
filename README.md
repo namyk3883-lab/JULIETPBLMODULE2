@@ -1,4 +1,3 @@
-# JULIETPBLMODULE2
 # Suggestion for Category inspired by Shakespeare
 > **PBL Module 2 Report Final**
 
@@ -44,88 +43,392 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 5. High-Intensity Dramas / Slow-Burn Journeys
 6. Emotionally Explosive Stories / Calm Atmospheric Stories
 
-> **Limitation:** Because we didn’t know how to precisely measure how “thick” the line should be with the romantic interest, we had to lean into intuition. We discussed how much thickness should be considered ‘enough’, but we wish we could have done a better quantitative job on it.
-
 ---
 
 ## 3. Data Analysis by Team Members
 
 ### 🧑‍💻 김민주
-1. **Hamlet**
-   - #Character-Driven Lead Stories #Romance-Light Stories #Epic Ensemble Sagas #Tragic Descents #High-Intensity Dramas #Emotionally Explosive Stories
-2. **All’s Well That Ends Well**
-   - #Ensemble Character Stories #Romance-Light Stories #Intimate Cast Dramas #Bittersweet Recoveries #Slow-Burn Journeys #Emotionally Explosive Stories
-3. **베니스의 상인 (The Merchant of Venice)**
-   - #Ensemble Character Stories #Romance-Light Stories #Intimate Cast Dramas #Feel-Good Endings #High-Intensity Dramas #Calm Atmospheric Stories
-4. **Antony and Cleopatra**
-   - #Character-Driven Lead Stories #Romance-Forward Series #Epic Ensemble Sagas #Tragic Descents #High-Intensity Dramas #Emotionally Explosive Stories
-5. **Coriolanus**
-   - #Character-Driven Lead Stories #Romance-Light Stories #Intimate Cast Dramas #Tragic Descents #Slow-Burn Journeys #Emotionally Explosive Stories
-6. **Henry IV part 1**
-   - #Ensemble Character Stories #Romance-Light Stories #Epic Ensemble Sagas #Feel-Good Endings #Slow-Burn Journeys #Calm Atmospheric Stories
-7. **Henry IV part 2**
-   - #Ensemble Character Stories #Romance-Light Stories #Epic Ensemble Sagas #Feel-Good Endings #Slow-Burn Journeys #Calm Atmospheric Stories
-8. **Henry V**
-   - #Ensemble Character Stories #Romance-Light Stories #Epic Ensemble Sagas #Feel-Good Endings #Slow-Burn Journeys #Calm Atmospheric Stories
+
+#### 1. Hamlet
+![Hamlet Image 1](data/image1.png)
+![Hamlet Image 2](data/image2.png)
+![Hamlet Image 3](data/image3.png)
+- #Character-Driven Lead Stories
+- #Romance-Light Stories
+- #Epic Ensemble Sagas
+- #Tragic Descents
+- #High-Intensity Dramas
+- #Emotionally Explosive Stories
+
+#### 2. All’s Well That Ends Well
+![All's Well That Ends Well Image 1](data/image4.png)
+![All's Well That Ends Well Image 2](data/image5.png)
+![All's Well That Ends Well Image 3](data/image6.png)
+- #Ensemble Character Stories
+- #Romance-Light Stories
+- #Intimate Cast Dramas
+- #Bittersweet Recoveries
+- #Slow-Burn Journeys
+- #Emotionally Explosive Stories
+
+#### 3. 베니스의 상인 (The Merchant of Venice)
+![The Merchant of Venice Image 1](data/image7.png)
+![The Merchant of Venice Image 2](data/image8.png)
+![The Merchant of Venice Image 3](data/image9.png)
+- #Ensemble Character Stories
+- #Romance-Light Stories
+- #Intimate Cast Dramas
+- #Feel-Good Endings
+- #High-Intensity Dramas
+- #Calm Atmospheric Stories
+
+#### 4. Antony and Cleopatra
+![Antony and Cleopatra Image 1](data/image10.png)
+![Antony and Cleopatra Image 2](data/image11.png)
+![Antony and Cleopatra Image 3](data/image12.png)
+- #Character-Driven Lead Stories
+- #Romance-Forward Series
+- #Epic Ensemble Sagas
+- #Tragic Descents
+- #High-Intensity Dramas
+- #Emotionally Explosive Stories
+
+#### 5. Coriolanus
+![Coriolanus Image 1](data/image13.png)
+![Coriolanus Image 2](data/image14.png)
+![Coriolanus Image 3](data/image15.png)
+- #Character-Driven Lead Stories
+- #Romance-Light Stories
+- #Intimate Cast Dramas
+- #Tragic Descents
+- #Slow-Burn Journeys
+- #Emotionally Explosive Stories
+
+#### 6. Henry IV part 1
+![Henry IV part 1 Image 1](data/image16.png)
+![Henry IV part 1 Image 2](data/image17.png)
+![Henry IV part 1 Image 3](data/image18.png)
+- #Ensemble Character Stories
+- #Romance-Light Stories
+- #Epic Ensemble Sagas
+- #Feel-Good Endings
+- #Slow-Burn Journeys
+- #Calm Atmospheric Stories
+
+#### 7. Henry IV part 2
+![Henry IV part 2 Image 1](data/image19.png)
+![Henry IV part 2 Image 2](data/image20.png)
+![Henry IV part 2 Image 3](data/image21.png)
+- #Ensemble Character Stories
+- #Romance-Light Stories
+- #Epic Ensemble Sagas
+- #Feel-Good Endings
+- #Slow-Burn Journeys
+- #Calm Atmospheric Stories
+
+#### 8. Henry V
+![Henry V Image 1](data/image22.png)
+![Henry V Image 2](data/image23.png)
+![Henry V Image 3](data/image24.png)
+- #Ensemble Character Stories
+- #Romance-Light Stories
+- #Epic Ensemble Sagas
+- #Feel-Good Endings
+- #Slow-Burn Journeys
+- #Calm Atmospheric Stories
+
+---
 
 ### 🧑‍💻 Zaya
-1. **Othello**
-   - #Character-Driven Lead Stories #Romance-Forward Series #Intimate Cast Dramas #Tragic Descents #High-Burn Journeys #Emotionally Explosive Stories
-2. **As You Like It**
-   - #Ensemble Character Stories #Romance-Forward Series #Intimate Cast Dramas #Feel-Good Endings #Slow-Burn Journeys #Calm Atmospheric Stories
-3. **Henry VI part 1**
-   - #Ensemble Character Stories #Romance-Light Stories #Epic Ensemble Sagas #Tragic Descents #High-Intensity Dramas #Emotionally Explosive Stories
-4. **Henry VI part 2**
-   - #Ensemble Character Stories #Romance-Light Stories #Epic Ensemble Sagas #Tragic Descents #High-Intensity Dramas #Emotionally Explosive Stories
-5. **Henry VI part 3**
-   - #Ensemble Character Stories #Romance-Light Stories #Epic Ensemble Sagas #Tragic Descents #High-Intensity Dramas #Emotionally Explosive Stories
-6. **Henry VIII**
-   - #Ensemble Character Stories #Romance-Light Stories #Epic Ensemble Sagas #Bittersweet Recoveries #Slow-Burn Journeys #Calm Atmospheric Stories
-7. **Julius Caesar**
-   - #Ensemble Character Stories #Romance-Light Stories #Epic Ensemble Sagas #Tragic Descents #High-Intensity Dramas #Emotionally Explosive Stories
-8. **King John**
-   - #Ensemble Character Stories #Romance-Light Stories #Epic Ensemble Sagas #Bittersweet Recoveries #High-Intensity Dramas #Calm Atmospheric Stories
-9. **Love’s Labor’s Lost**
-   - #Ensemble Character Stories #Romance-Forward Series #Intimate Cast Dramas #Bittersweet Recoveries #Slow-Burn Journeys #Calm Atmospheric Stories
+
+#### Othello
+![Othello Image 1](data/image25.png)
+![Othello Image 2](data/image26.png)
+![Othello Image 3](data/image27.png)
+1. Character-Driven Lead Stories
+2. Romance-Forward Series
+3. Intimate Cast Dramas
+4. Tragic Descents 
+5. High-Burn Journeys
+6. Emotionally Explosive Stories
+
+#### As You Like It
+![As You Like It Image 1](data/image28.png)
+![As You Like It Image 2](data/image29.png)
+![As You Like It Image 3](data/image30.png)
+1. Character-Ensemble Character Stories
+2. Romance-Forward Series
+3. Intimate Cast Dramas
+4. Feel-Good Endings
+5. Slow-Burn Journeys
+6. Calm Atmospheric Stories
+
+#### Henry VI part 1
+![Henry VI part 1 Image 1](data/image31.png)
+![Henry VI part 1 Image 2](data/image32.png)
+![Henry VI part 1 Image 3](data/image33.png)
+1. Character-Ensemble Character Stories
+2. Romance-Light Stories
+3. Epic Ensemble Sagas
+4. Tragic Descents
+5. High-Intensity Dramas
+6. Emotionally Explosive Stories
+
+#### Henry VI part 2
+![Henry VI part 2 Image 1](data/image34.png)
+![Henry VI part 2 Image 2](data/image35.png)
+![Henry VI part 2 Image 3](data/image36.png)
+1. Character-Ensemble Character Stories
+2. Romance-Light Stories
+3. Epic Ensemble Sagas
+4. Tragic Descents
+5. High-Intensity Dramas
+6. Emotionally Explosive Stories
+
+#### Henry VI part 3
+![Henry VI part 3 Image 1](data/image37.png)
+![Henry VI part 3 Image 2](data/image38.png)
+![Henry VI part 3 Image 3](data/image39.png)
+1. Character-Ensemble Character Stories
+2. Romance-Light Stories
+3. Epic Ensemble Sagas
+4. Tragic Descents
+5. High-Intensity Dramas
+6. Emotionally Explosive Stories
+
+#### Henry VIII
+![Henry VIII Image 1](data/image40.png)
+![Henry VIII Image 2](data/image41.png)
+![Henry VIII Image 3](data/image42.png)
+1. Character-Ensemble Character Stories
+2. Romance-Light Stories
+3. Epic Ensemble Sagas
+4. Bittersweet Recoveries
+5. Slow-Burn Journeys
+6. Calm Atmospheric Stories
+
+#### Julius Caesar
+![Julius Caesar Image 1](data/image43.png)
+![Julius Caesar Image 2](data/image44.png)
+![Julius Caesar Image 3](data/image45.png)
+1. Character-Ensemble Character Stories
+2. Romance-Light Stories
+3. Epic Ensemble Sagas
+4. Tragic Descents
+5. High-Intensity Dramas
+6. Emotionally Explosive Stories
+
+#### King John
+![King John Image 1](data/image46.png)
+![King John Image 2](data/image47.png)
+![King John Image 3](data/image48.png)
+1. Character-Ensemble Character Stories
+2. Romance-Light Stories
+3. Epic Ensemble Sagas
+4. Bittersweet Recoveries
+5. High-Intensity Dramas 
+6. Calm Atmospheric Stories
+
+#### Love’s Labor’s Lost
+![Love's Labor's Lost Image 1](data/image49.png)
+![Love's Labor's Lost Image 2](data/image50.png)
+![Love's Labor's Lost Image 3](data/image51.png)
+1. Character-Ensemble Character Stories
+2. Romance-Forward Series
+3. Intimate Cast Dramas
+4. Bittersweet Recoveries
+5. Slow-Burn Journeys
+6. Calm Atmospheric Stories
+
+---
 
 ### 🧑‍💻 남유건
-1. **Macbeth**
-   - Main character centric / Not romantic-centric / 다수극 / Sad ending / Dramatic / Big feelings
-   - #Character-Driven Lead Stories #Romance-Light Stories #Epic Ensemble Sagas #Tragic Descents #High-Intensity Dramas #Emotionally Explosive Stories
-2. **A Midsummer Night's Dream**
-   - #Ensemble Character Stories #Romance-Forward Series #Intimate Cast Dramas #Feel-Good Endings #High-Intensity Dramas #Calm Atmospheric Stories
-3. **Measure for Measure**
-   - #Character-Driven Lead Stories #Romance-Forward Series #Intimate Cast Dramas #Bittersweet Recoveries #Slow-Burn Journeys #Emotionally Explosive Stories
-4. **Much Ado About Nothing**
-   - #Character-Driven Lead Stories #Romance-Forward Series #Intimate Cast Dramas #Feel-Good Endings #Slow-Burn Journeys #Emotionally Explosive Stories
-5. **Richard II**
-   - #Ensemble Character Stories #Romance-Light Stories #Epic Ensemble Sagas #Feel-Good Endings #Slow-Burn Journeys #Emotionally Explosive Stories
-6. **Richard III**
-   - #Ensemble Character Stories #Romance-Light Stories #Epic Ensemble Sagas #Tragic Descents #High-Intensity Dramas #Emotionally Explosive Stories
-7. **Romeo and Juliet**
-   - #Ensemble Character Stories #Romance-Forward Series #Epic Ensemble Sagas #Bittersweet Recoveries #High-Intensity Dramas #Emotionally Explosive Stories
-8. **The Comedy of Errors**
-   - #Ensemble Character Stories #Romance-Light Stories #Intimate Cast Dramas #Bittersweet Recoveries #High-Intensity Dramas #Calm Atmospheric Stories
+
+#### 1. Macbeth
+![Macbeth Image 1](data/image52.png)
+![Macbeth Image 2](data/image53.png)
+![Macbeth Image 3](data/image54.png)
+- Main character centric / Not romantic-centric / 다수극 / Sad ending / Dramatic / Big feelings
+- #Character-Driven Lead Stories #Romance-Light Stories #Epic Ensemble Sagas #Tragic Descents #High-Intensity Dramas #Emotionally Explosive Stories 
+
+#### 2. A Midsummer Night’s Dream
+![A Midsummer Night's Dream Image 1](data/image55.png)
+![A Midsummer Night's Dream Image 2](data/image56.png)
+![A Midsummer Night's Dream Image 3](data/image57.png)
+1. Ensemble Character Stories 
+2. Romance-Forward Series 
+3. Intimate Cast Dramas 
+4. Feel-Good Endings
+5. High-Intensity Dramas 
+6. Calm Atmospheric Stories 
+
+#### 3. Measure for Measure
+![Measure for Measure Image 1](data/image58.png)
+![Measure for Measure Image 2](data/image59.png)
+![Measure for Measure Image 3](data/image60.png)
+1. Character-Driven Lead Stories 
+2. Romance-Forward Series 
+3. Intimate Cast Dramas 
+4. Bittersweet Recoveries
+5. Slow-Burn Journeys
+6. Emotionally Explosive Stories 
+
+#### 4. Much Ado About Nothing
+![Much Ado About Nothing Image 1](data/image61.png)
+![Much Ado About Nothing Image 2](data/image62.png)
+![Much Ado About Nothing Image 3](data/image63.png)
+1. Character-Driven Lead Stories 
+2. Romance-Forward Series 
+3. Intimate Cast Dramas 
+4. Feel-Good Endings
+5. Slow-Burn Journeys
+6. Emotionally Explosive Stories 
+
+#### Pericles
+![Pericles Image 1](data/image64.png)
+![Pericles Image 2](data/image65.png)
+![Pericles Image 3](data/image66.png)
+1. Character-Driven Lead Stories 
+2. Romance-Light Stories
+3. Intimate Cast Dramas 
+4. Feel-Good Endings 
+5. High-Intensity Dramas 
+6. Emotionally Explosive Stories 
+
+#### 5. Richard II
+![Richard II Image 1](data/image67.png)
+![Richard II Image 2](data/image68.png)
+![Richard II Image 3](data/image69.png)
+1. Ensemble Character Stories
+2. Romance-Light Stories
+3. Epic Ensemble Sagas
+4. Feel-Good Endings 
+5. Slow-Burn Journeys
+6. Emotionally Explosive Stories 
+
+#### 6. Richard III
+![Richard III Image 1](data/image70.png)
+![Richard III Image 2](data/image71.png)
+![Richard III Image 3](data/image72.png)
+1. Ensemble Character Stories
+2. Romance-Light Stories
+3. Epic Ensemble Sagas
+4. Tragic Descents
+5. High-Intensity Dramas 
+6. Emotionally Explosive Stories 
+
+#### 7. Romeo and Juliet
+![Romeo and Juliet Image 1](data/image73.png)
+![Romeo and Juliet Image 2](data/image74.png)
+![Romeo and Juliet Image 3](data/image75.png)
+1. Ensemble Character Stories
+2. Romance-Forward Series 
+3. Epic Ensemble Sagas
+4. Bittersweet Recoveries
+5. High-Intensity Dramas 
+6. Emotionally Explosive Stories 
+
+#### 8. The Comedy of Errors
+![The Comedy of Errors Image 1](data/image76.png)
+![The Comedy of Errors Image 2](data/image77.png)
+![The Comedy of Errors Image 3](data/image78.png)
+1. Ensemble Character Stories
+2. Romance-Light Stories
+3. Intimate Cast Dramas 
+4. Bittersweet Recoveries
+5. High-Intensity Dramas
+6. Calm Atmospheric Stories 
+
+---
 
 ### 🧑‍💻 임형건
-1. **The Winter’s Tale**
-   - #Character-Driven Lead Stories #Romance-Forward Series #Intimate Cast Dramas #Bittersweet Recoveries #High-Intensity Dramas #Emotionally Explosive Stories
-2. **Timon of Athens**
-   - #Character-Driven Lead Stories #Romance-Light Stories #Intimate Cast Dramas #Tragic Descents #High-Intensity Dramas #Emotionally Explosive Stories
-3. **The Tempest**
-   - #Character-Driven Lead Stories #Romance-Forward Series #Intimate Cast Dramas #Hopeful Recoveries #Slow-Burn Journeys #Calm Atmospheric Stories
-4. **Titus Andronicus**
-   - #Romance-Forward Series #Epic Ensemble Sagas #Intimate Cast Dramas #Tragic Descents #High-Intensity Dramas #Emotionally Explosive Stories
-5. **The Two Gentlemen of Verona**
-   - #Ensemble Character Stories #Romance-Forward Series #Intimate Cast Dramas #Feel-Good Endings #Calm Atmospheric Stories
-6. **The Taming of the Shrew**
-   - #Character-Driven Lead Stories #Romance-Forward Series #Intimate Cast Dramas #Feel-Good Endings #High-Intensity Dramas #Emotionally Explosive Stories
-7. **Troilus and Cressida**
-   - #Character-Driven Lead Stories #Romance-Forward Series #Epic Ensemble Sagas #Bittersweet Recoveries #High-Intensity Dramas #Calm Atmospheric Stories
-8. **King Lear**
-   - #Character-Driven Lead Stories #Romance-Light Stories #Epic Ensemble Sagas #Tragic Descents #High-Intensity Dramas #Emotionally Explosive Stories
-9. **Twelfth Night**
-   - #Ensemble Character Stories #Romance-Forward Series #Intimate Cast Dramas #Feel-Good Endings #Slow-Burn Journeys #Calm Atmospheric Stories
+
+#### The Winter’s Tale
+![The Winter's Tale Image 1](data/image79.png)
+![The Winter's Tale Image 2](data/image80.png)
+![The Winter's Tale Image 3](data/image81.png)
+- Bittersweet Recoveries
+- Romance-Forward Series
+- High-Intensity Dramas
+- Character-Driven Lead Stories
+- Emotionally Explosive Stories
+- Intimate Cast Dramas
+
+#### Timon of Athens
+![Timon of Athens Image 1](data/image82.png)
+![Timon of Athens Image 2](data/image83.png)
+![Timon of Athens Image 3](data/image84.png)
+- Tragic Descents
+- Character-Driven Lead Stories
+- Emotionally Explosive Stories
+- High-Intensity Dramas
+- Romance-Light Stories
+- Intimate Cast Dramas
+
+#### The Tempest
+![The Tempest Image 1](data/image85.png)
+![The Tempest Image 2](data/image86.png)
+![The Tempest Image 3](data/image87.png)
+- Slow-Burn Journeys
+- Calm Atmospheric Stories
+- Character-Driven Lead Stories
+- Hopeful Recoveries
+- Romance-Forward Series
+- Intimate Cast Dramas
+
+#### Titus Andronicus
+![Titus Andronicus Image 1](data/image88.png)
+![Titus Andronicus Image 2](data/image89.png)
+![Titus Andronicus Image 3](data/image90.png)
+- Emotionally Explosive Stories
+- High-Intensity Dramas
+- Tragic Descents
+- Epic Ensemble Sagas
+- Romance-Forward Series
+- Intimate Cast Dramas
+
+#### The Two Gentlemen of Verona
+![The Two Gentlemen of Verona Image 1](data/image91.png)
+![The Two Gentlemen of Verona Image 2](data/image92.png)
+![The Two Gentlemen of Verona Image 3](data/image93.png)
+- Romance-Forward Series
+- Ensemble Character Stories
+- Feel-Good Endings
+- Calm Atmospheric Stories
+- Intimate Cast Dramas
+
+#### The Taming of the Shrew
+![The Taming of the Shrew Image 1](data/image94.png)
+- Romance-Forward Series
+- Character-Driven Lead Stories
+- High-Intensity Dramas
+- Feel-Good Endings
+- Intimate Cast Dramas
+- Emotionally Explosive Stories
+
+#### Troilus and Cressida
+- Epic Ensemble Sagas
+- Romance-Forward Series
+- Bittersweet Recoveries
+- High-Intensity Dramas
+- Calm Atmospheric Stories
+- Character-Driven Lead Stories
+
+#### King Lear
+- Character-Driven Lead Stories
+- Romance-Light Stories
+- Epic Ensemble Sagas
+- Tragic Descents
+- High-Intensity Dramas
+- Emotionally Explosive Stories
+
+#### Twelfth Night
+- Ensemble Character Stories
+- Romance-Forward Series
+- Intimate Cast Dramas
+- Feel-Good Endings
+- Slow-Burn Journeys
+- Calm Atmospheric Stories
 
 ---
 
@@ -133,7 +436,6 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 
 ### ⚔️ Group 1 · 웅장한 비극 (Grand Tragedies: Hamlet-like) (8 편)
 * **Common Categories:** Epic Ensemble Sagas · Tragic Descents · High-Intensity Dramas · Emotionally Explosive Stories
-* **Target Audience:** Someone who likes tragedy, and drama without romance that interrupts the story. It could be better to watch them while you are doing some kind of other task to occupy your mind, but it would not be good to watch them with your partner or family. They are a good companion when you don’t have anything else to do and need some drama in your life.
 
 | # | Work | Attributes |
 |---|---|---|
@@ -148,7 +450,6 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 
 ### 💔 Group 2 · 로맨틱 서사 비극 (Romantic Epic Tragedies) (3 편)
 * **Common Categories:** Romance-Forward Series · High-Intensity Dramas · Emotionally Explosive Stories · Tragic/Bittersweet Endings
-* **Target Audience:** Someone who likes drama AND romance. Still not good to watch them with your partner because it will be a tragedy, but for a girls' night, it would be fun to sniffle with your friends!
 
 | # | Work | Attributes |
 |---|---|---|
@@ -158,7 +459,6 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 
 ### 🏰 Group 3 · 서사 역사 희극 (Epic Historical Comedies) (3 편)
 * **Common Categories:** Ensemble Character Stories · Romance-Light Stories · Epic Ensemble Sagas · Feel-Good Endings · Slow-Burn Journeys · Calm Atmospheric Stories
-* **Target Audience:** Someone who is a history nerd and loves heroes. It has a heroic tone to it, and it can cater toward people who love it when there are a lot of characters interacting within the story.
 
 | # | Work | Attributes |
 |---|---|---|
@@ -168,7 +468,6 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 
 ### 🗡️ Group 4 · 내밀한 비극 (Intimate Tragedies: Othello-lite) (3 편)
 * **Common Categories:** Character-Driven Lead Stories · Intimate Cast Dramas · Tragic Descents · Emotionally Explosive Stories
-* **Target Audience:** Someone who loves the inner conflict of a protagonist. It has a serious tone to it, which means it would be better if you watch it late at midnight when a storm is coming and you are having a serene feeling for deep thinking.
 
 | # | Work | Attributes |
 |---|---|---|
@@ -178,7 +477,6 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 
 ### 🌸 Group 5 · 낭만 희극 (Romantic Comedies) (4 편)
 * **Common Categories:** Ensemble Character Stories · Romance-Forward Series · Intimate Cast Dramas · Feel-Good Endings · Calm Atmospheric Stories
-* **Target Audience:** Teenagers that love high-teen dramas. It has a light-hearted tone to it, and it is not as explosive as the others. Might be good for a date.
 
 | # | Work | Attributes |
 |---|---|---|
@@ -189,7 +487,6 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 
 ### 💑 Group 6 · 격렬한 로맨스 드라마 (Intense Romance Dramas) (4 편)
 * **Common Categories:** Character-Driven Lead Stories · Romance-Forward Series · Intimate Cast Dramas · Emotionally Explosive Stories
-* **Target Audience:** Maybe someone who’s in their 40s and when they are doing chores. It is much more explosive and character-driven, creating interesting drama. Might be good for regular parties.
 
 | # | Work | Attributes |
 |---|---|---|
@@ -200,7 +497,6 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 
 ### 🎭 Group 7 · 소규모 희비극 (Small-Scale Tragicomedies) (4 편)
 * **Common Categories:** Ensemble Character Stories · Intimate Cast Dramas · Bittersweet/Feel-Good Endings
-* **Target Audience:** Most of these stories are bittersweet, so it might be better to watch this when you are feeling nice and need some spice in your life. Maybe philosophical people would be into it for its ambiguousness.
 
 | # | Work | Attributes |
 |---|---|---|
@@ -211,7 +507,6 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 
 ### 📜 Group 8 · 역사 드라마 (Historical Dramas, Non-Tragic) (4 편)
 * **Common Categories:** Ensemble Character Stories · Epic Ensemble Sagas · Romance-Light Stories · Non-Tragic (Bittersweet / Mixed) Endings
-* **Target Audience:** Serious history nerds that are not interested in feel-good stories. Seek violence, betrayal, and more.
 
 | # | Work | Attributes |
 |---|---|---|
@@ -222,7 +517,6 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 
 ### 🌊 Group 9 · 독자적 작품 (Group 6-lite) (1 편)
 * **Common Categories:** Character-Driven Lead Stories · Romance-Forward Series · Intimate Cast Dramas · Bittersweet Recoveries · Slow-Burn Journeys · Calm Atmospheric Stories
-* **Target Audience:** Group nine only has *The Tempest*, and although it’s its own standalone themed one, it is closer to Group 6 (격렬한 로맨스 드라마).
 
 | # | Work | Attributes |
 |---|---|---|
