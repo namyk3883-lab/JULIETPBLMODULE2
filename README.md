@@ -357,7 +357,7 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 #### Timon of Athens
 ![Timon of Athens Image 1](image82.png)
 ![Timon of Athens Image 2](image83.png)
-![Timon of Athens Image 3](image84.png)
+![Timon of Athens Image 3](image85.png)
 - Tragic Descents
 - Character-Driven Lead Stories
 - Emotionally Explosive Stories
@@ -366,7 +366,7 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 - Intimate Cast Dramas
 
 #### The Tempest
-![The Tempest Image 1](image85.png)
+![The Tempest Image 1](image84.png)
 ![The Tempest Image 2](image86.png)
 ![The Tempest Image 3](image87.png)
 - Slow-Burn Journeys
@@ -399,6 +399,8 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 
 #### The Taming of the Shrew
 ![The Taming of the Shrew Image 1](image94.png)
+![The Taming of the Shrew Image 1](image95.png)
+![The Taming of the Shrew Image 1](image96.png)
 - Romance-Forward Series
 - Character-Driven Lead Stories
 - High-Intensity Dramas
@@ -407,6 +409,9 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 - Emotionally Explosive Stories
 
 #### Troilus and Cressida
+![Troilus and Cressida 1](image97.png)
+![Troilus and Cressida 1](image98.png)
+![Troilus and Cressida 1](image99.png)
 - Epic Ensemble Sagas
 - Romance-Forward Series
 - Bittersweet Recoveries
@@ -415,6 +420,9 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 - Character-Driven Lead Stories
 
 #### King Lear
+![King Lear 1](image100.png)
+![King Lear 1](image101.png)
+![King Lear 1](image102.png)
 - Character-Driven Lead Stories
 - Romance-Light Stories
 - Epic Ensemble Sagas
@@ -423,6 +431,9 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 - Emotionally Explosive Stories
 
 #### Twelfth Night
+![Twelfth Night 1](image103.png)
+![Twelfth Night 1](image104.png)
+![Twelfth Night 1](image105.png)
 - Ensemble Character Stories
 - Romance-Forward Series
 - Intimate Cast Dramas
