@@ -142,9 +142,9 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 ### 🧑‍💻 Zaya
 
 #### Othello
-![Othello Image 1](image25.png)
-![Othello Image 2](image26.png)
-![Othello Image 3](image27.png)
+![Othello Image 1](image25.jpeg)
+![Othello Image 2](image26.jpeg)
+![Othello Image 3](image27.jpeg)
 1. Character-Driven Lead Stories
 2. Romance-Forward Series
 3. Intimate Cast Dramas
@@ -153,9 +153,9 @@ We used **Gephi lite** and **Voyant Tools** to turn emotional flow into somethin
 6. Emotionally Explosive Stories
 
 #### As You Like It
-![As You Like It Image 1](image28.png)
-![As You Like It Image 2](image29.png)
-![As You Like It Image 3](image30.png)
+![As You Like It Image 1](image28.jpeg)
+![As You Like It Image 2](image29.jpeg)
+![As You Like It Image 3](image30.jpeg)
 1. Character-Ensemble Character Stories
 2. Romance-Forward Series
 3. Intimate Cast Dramas
